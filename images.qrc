@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/login-bg.png</file>
+        <file>images/saad.jpg</file>
+        <file>images/saad.png</file>
+        <file>images/25226.jpg</file>
+        <file>images/financial-logo-finance-logo-vector-removebg-preview.png</file>
+        <file>images/the-greening-logo-is-symbolized-by-the-shape-of-a-combination-of-green-leaves-logo-turns-green-go-green-logo-vector-removebg-preview.png</file>
+        <file>images/night-mode.png</file>
+    </qresource>
+</RCC>
